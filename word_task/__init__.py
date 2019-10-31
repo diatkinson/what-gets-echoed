@@ -1,0 +1,2 @@
+from word_task.embeddings.model import WordEmbeddingsModel
+from word_task.embeddings.reader import WordEmbeddingsReader

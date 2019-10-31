@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints
+.mypy_cache/
+records/word_glove/
+records/word_glove_features/*
