@@ -1,7 +1,7 @@
 This repo has the code and data for the 2019 EMNLP paper "[What Gets Echoed? Understanding the 'Pointers' in Explanations of Persuasive Arguments](https://chenhaot.com/papers/explanation-pointers.html)."
 
 To run:
-1. Get the data files from the latest release and place them in the `data` directory.
+1. Get the data files from the [latest release](https://github.com/diatkinson/what-gets-echoed/releases/tag/v1.0) and place them in the `data` directory.
 2. Activate the `cmv-gen` conda environment. (A copy of the environment is in `records/cmv-gen.yml`).
 3. Run `python extra_scripts/create_vectors.py` to calculate and store the feature vectors.
 4. Find the instructions below for the figure you want to generate.
